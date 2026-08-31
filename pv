@@ -1,0 +1,146 @@
+# Privacy Policy
+
+**Last Updated: August 31, 2026**
+
+This Privacy Policy explains how **[BOT NAME]** ("the Bot", "we", "us", or "our") collects, processes, stores, and protects data when the Bot is used on Discord servers.
+
+By inviting or using the Bot, you acknowledge the practices described in this Privacy Policy.
+
+## 1. Purpose of the Bot
+
+[BOT NAME] is a Discord automation and moderation bot.
+
+The Bot provides features including:
+
+* Automatic responses triggered by configured keywords, names, or phrases.
+* Automatic messages and configured responses.
+* Mentioning configured Discord users.
+* Sending configured GIFs or media.
+* Detecting links in messages.
+* Automatically deleting unauthorized links.
+* Checking configured permissions or roles for moderation purposes.
+* Server-specific automation and moderation settings.
+
+## 2. Data We May Process
+
+Depending on the features enabled by a Discord server, the Bot may process:
+
+* Discord User IDs.
+* Discord Server (Guild) IDs.
+* Channel IDs.
+* Role IDs.
+* Message IDs.
+* Member role and permission information when necessary.
+* Server-specific Bot configuration.
+* Configured keywords, names, phrases, and automatic responses.
+* Configured users or roles to mention.
+* Moderation configuration and authorized roles.
+* Information necessary to determine whether a message contains a link.
+
+## 3. Message Content
+
+The Bot processes message content when necessary to provide its automatic response and moderation features.
+
+Message content may be processed to:
+
+* Detect configured keywords, names, or phrases.
+* Trigger configured automatic responses.
+* Detect links.
+* Determine whether a link violates the server's configured moderation rules.
+
+The Bot is not intended to permanently store the content of user messages unless a specific feature explicitly requires such storage.
+
+## 4. How We Use Data
+
+The data processed by the Bot is used only to provide and maintain its features, including:
+
+* Providing automatic responses.
+* Detecting configured message triggers.
+* Mentioning configured users.
+* Sending configured GIFs or media.
+* Detecting unauthorized links.
+* Enforcing configured moderation rules.
+* Maintaining server-specific settings.
+* Maintaining and improving the security and functionality of the Bot.
+
+We do not sell user data.
+
+We do not use message content for advertising or profiling.
+
+We do not use Discord message content to train artificial intelligence or machine learning models.
+
+## 5. Data Storage
+
+Some data may be stored outside of Discord when necessary for the Bot to function correctly.
+
+This may include server configuration such as:
+
+* Automatic response triggers.
+* Configured responses.
+* Moderation settings.
+* Authorized roles or permissions.
+* Server and channel configuration.
+
+The Bot may use **DisCloud** or other technical infrastructure required to operate the application.
+
+Only data reasonably necessary for the functionality of the Bot should be stored.
+
+## 6. Data Retention
+
+Data is retained only for as long as necessary to provide the Bot's features and maintain server configuration.
+
+Server-related configuration may remain stored while the Bot is actively configured for a server.
+
+Data that is no longer necessary may be deleted.
+
+## 7. Data Deletion Requests
+
+Users may request the deletion of applicable stored data by contacting the Bot owner or support team through the official support method provided for the Bot.
+
+Users may be asked to provide their Discord User ID and relevant server information to help identify the requested data.
+
+Deletion requests will be reviewed and applicable data will be deleted when it is no longer necessary for the operation of the Bot or required for legitimate technical or legal purposes.
+
+Server owners or authorized administrators may also request the deletion of server-specific Bot configuration.
+
+## 8. Data Sharing
+
+We do not sell, rent, or share user data for advertising purposes.
+
+Data may be processed by hosting providers or technical services necessary for operating the Bot.
+
+We may disclose information when required to comply with applicable legal obligations.
+
+## 9. Data Security
+
+We take reasonable measures to protect stored data from unauthorized access, modification, disclosure, or loss.
+
+Access to stored data is limited to authorized systems and individuals responsible for operating and maintaining the Bot.
+
+## 10. Server Administrator Responsibilities
+
+Server owners and administrators are responsible for configuring the Bot and informing their server members about automation and moderation features enabled on their server.
+
+Administrators are responsible for ensuring that their use of the Bot complies with applicable laws and Discord's policies.
+
+## 11. Children's Privacy
+
+The Bot does not intentionally collect additional personal information beyond the Discord data necessary to provide its features.
+
+Users must comply with Discord's age requirements and Terms of Service.
+
+## 12. Changes to This Privacy Policy
+
+We may update this Privacy Policy when necessary due to changes in the Bot, its features, infrastructure, or applicable requirements.
+
+The "Last Updated" date will be changed when updates are made.
+
+## 13. Contact
+
+For privacy questions or data deletion requests, users can contact the Bot owner or support team through the official support method provided for the Bot.
+
+**Official Contact: [ADD YOUR DISCORD SUPPORT SERVER OR EMAIL HERE]**
+
+## 14. Acceptance
+
+By using [BOT NAME], you acknowledge that you have read and understood this Privacy Policy.
