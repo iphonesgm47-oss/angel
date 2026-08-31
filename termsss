@@ -1,0 +1,93 @@
+# Terms of Service
+
+**Last Updated: August 31, 2026**
+
+By using this Discord application, you agree to these Terms of Service.
+
+## 1. Purpose
+
+This application is used for Discord automation and moderation.
+
+Its features may include:
+
+* Automatic responses when specific words, names, or phrases are sent.
+* Automatic messages.
+* Mentioning configured Discord users.
+* Sending GIFs or other media.
+* Detecting links in messages.
+* Automatically deleting links sent by users who are not authorized to send them.
+* Checking roles and permissions.
+* Applying moderation rules configured by server administrators.
+
+## 2. Server Administration
+
+Server owners and administrators are responsible for configuring the application correctly.
+
+Administrators are also responsible for informing their members about automatic responses and moderation features that are active on their server.
+
+## 3. Acceptable Use
+
+The application must not be used to:
+
+* Break Discord's Terms of Service or Community Guidelines.
+* Harass or threaten other users.
+* Send spam or malicious content.
+* Collect personal information illegally.
+* Attempt to exploit or damage the application.
+* Use the application for illegal activities.
+
+## 4. Automatic Responses
+
+Server administrators can configure automatic responses using keywords, names, phrases, messages, mentions, GIFs, and other supported content.
+
+Administrators are responsible for the content they configure.
+
+## 5. Automatic Moderation
+
+The application can automatically moderate messages according to the rules configured by server administrators.
+
+This includes detecting and deleting links from users who do not have permission to send links.
+
+Automatic moderation may occasionally make mistakes, so administrators should configure and monitor their moderation settings.
+
+## 6. Discord Permissions and Data
+
+The application may require Discord permissions and Gateway Intents to provide its features.
+
+Discord data is only processed when necessary for automatic responses and moderation features.
+
+More information about data processing is available in the Privacy Policy.
+
+## 7. Availability
+
+The application may occasionally be unavailable because of maintenance, technical problems, Discord outages, hosting problems, or other unexpected issues.
+
+Continuous availability cannot be guaranteed.
+
+## 8. Limitation of Responsibility
+
+The application is provided as available.
+
+Automatic moderation cannot guarantee that every unwanted message, link, or violation will always be detected.
+
+Server administrators remain responsible for managing and monitoring their servers.
+
+## 9. Suspension
+
+Access to the application may be suspended or removed if it is used to violate these Terms, Discord's rules, or applicable laws.
+
+Server owners can remove the application from their server at any time.
+
+## 10. Changes
+
+Features and these Terms of Service may be updated when necessary.
+
+Continued use of the application after changes means that you accept the updated Terms.
+
+## 11. Contact
+
+For questions, support, or data-related requests, users can contact the application owner through the official support method.
+
+## 12. Agreement
+
+By using this application, you agree to these Terms of Service.
