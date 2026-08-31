@@ -1,0 +1,83 @@
+# Terms of Service
+
+**Last Updated: August 31, 2026**
+
+These Terms of Service ("Terms") govern the use of **[BOT NAME]** ("the Bot", "we", "us", or "our").
+
+By inviting, accessing, or using the Bot, you agree to these Terms.
+
+## 1. Purpose of the Bot
+
+[BOT NAME] is a Discord staff management and performance tracking bot.
+
+The Bot is designed to help Discord server administrators manage staff activity through a point and evaluation system. Depending on the server configuration, the Bot may:
+
+* Track staff activity.
+* Count eligible messages sent by staff members.
+* Record moderation-related statistics, including warnings and timeouts.
+* Calculate staff points based on configured rules.
+* Generate daily statistics and reports.
+* Generate monthly staff evaluations.
+* Display staff rankings and performance statistics.
+* Allow authorized administrators to manage staff point records and configurations.
+
+The Bot is intended exclusively for legitimate server management, staff management, and performance evaluation purposes.
+
+## 2. Server Administrator Responsibilities
+
+Server owners and administrators are responsible for configuring the Bot and informing staff members about the activity tracking and evaluation features enabled on their server.
+
+Administrators are responsible for ensuring that their use of the Bot complies with applicable laws, Discord's Terms of Service, and Discord's Developer Policies.
+
+## 3. Acceptable Use
+
+You agree not to use the Bot to:
+
+* Violate Discord's Terms of Service or Community Guidelines.
+* Harass, threaten, or abuse other users.
+* Collect or misuse personal information unlawfully.
+* Attempt to exploit, disrupt, or interfere with the Bot.
+* Use the Bot for illegal or unauthorized purposes.
+* Attempt to gain unauthorized access to the Bot or its data.
+
+## 4. Permissions and Discord Data
+
+The Bot may request Discord permissions and Gateway Intents required for its features.
+
+Depending on the enabled features, the Bot may access information necessary to identify staff members, track configured activity, calculate statistics, and provide staff evaluations.
+
+The Bot only uses Discord data for the functionality provided by the application.
+
+## 5. Availability
+
+We make reasonable efforts to keep the Bot operational and available. However, uninterrupted or error-free operation is not guaranteed.
+
+The Bot may become temporarily unavailable due to maintenance, technical problems, Discord service interruptions, hosting issues, security incidents, or other circumstances.
+
+## 6. Limitation of Liability
+
+The Bot is provided on an "as is" and "as available" basis.
+
+We do not guarantee that the Bot will always operate without errors or that all statistics and evaluations will always be completely accurate.
+
+Server administrators are responsible for reviewing staff evaluations and should not rely solely on automated statistics when making important staff management decisions.
+
+## 7. Suspension or Termination
+
+We reserve the right to suspend or terminate access to the Bot if it is used in violation of these Terms, Discord's policies, or applicable laws.
+
+Server owners may remove the Bot from their server at any time.
+
+## 8. Changes to the Service
+
+We may modify, update, add, or remove features of the Bot at any time.
+
+We may also update these Terms when necessary. Continued use of the Bot after changes become effective constitutes acceptance of the updated Terms.
+
+## 9. Contact
+
+For questions, support requests, or issues related to the Bot, users may contact us through the official support method provided by the Bot owner.
+
+## 10. Acceptance of These Terms
+
+By using or inviting [BOT NAME], you acknowledge that you have read and agreed to these Terms of Service and the Privacy Policy.
