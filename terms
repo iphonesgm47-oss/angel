@@ -2,82 +2,84 @@
 
 **Last Updated: August 31, 2026**
 
-These Terms of Service ("Terms") govern the use of **[BOT NAME]** ("the Bot", "we", "us", or "our").
+By inviting or using this Discord application, you agree to these Terms of Service.
 
-By inviting, accessing, or using the Bot, you agree to these Terms.
+## 1. Purpose
 
-## 1. Purpose of the Bot
+This application is used for staff management and performance tracking on Discord servers.
 
-[BOT NAME] is a Discord staff management and performance tracking bot.
-
-The Bot is designed to help Discord server administrators manage staff activity through a point and evaluation system. Depending on the server configuration, the Bot may:
+Depending on the server configuration, the application may:
 
 * Track staff activity.
-* Count eligible messages sent by staff members.
-* Record moderation-related statistics, including warnings and timeouts.
+* Count messages sent by staff members.
+* Record moderation statistics, including warnings and timeouts.
 * Calculate staff points based on configured rules.
 * Generate daily statistics and reports.
 * Generate monthly staff evaluations.
 * Display staff rankings and performance statistics.
-* Allow authorized administrators to manage staff point records and configurations.
+* Allow authorized administrators to manage staff points and settings.
 
-The Bot is intended exclusively for legitimate server management, staff management, and performance evaluation purposes.
+The application is intended for server management, staff management, and staff performance evaluation.
 
 ## 2. Server Administrator Responsibilities
 
-Server owners and administrators are responsible for configuring the Bot and informing staff members about the activity tracking and evaluation features enabled on their server.
+Server owners and administrators are responsible for configuring the application correctly.
 
-Administrators are responsible for ensuring that their use of the Bot complies with applicable laws, Discord's Terms of Service, and Discord's Developer Policies.
+Administrators are also responsible for informing staff members when activity tracking, point calculation, or performance evaluations are enabled.
+
+The application must be used in accordance with Discord's Terms of Service, Developer Policies, and applicable laws.
 
 ## 3. Acceptable Use
 
-You agree not to use the Bot to:
+The application must not be used to:
 
 * Violate Discord's Terms of Service or Community Guidelines.
 * Harass, threaten, or abuse other users.
-* Collect or misuse personal information unlawfully.
-* Attempt to exploit, disrupt, or interfere with the Bot.
-* Use the Bot for illegal or unauthorized purposes.
-* Attempt to gain unauthorized access to the Bot or its data.
+* Collect or misuse personal information illegally.
+* Attempt to exploit, disrupt, or interfere with the application.
+* Use the application for illegal or unauthorized purposes.
+* Attempt to gain unauthorized access to stored data or systems.
 
-## 4. Permissions and Discord Data
+## 4. Discord Permissions and Data
 
-The Bot may request Discord permissions and Gateway Intents required for its features.
+The application may require Discord permissions and Gateway Intents to provide its features.
 
-Depending on the enabled features, the Bot may access information necessary to identify staff members, track configured activity, calculate statistics, and provide staff evaluations.
+Depending on the enabled features, the application may process information necessary to identify staff members, track activity, calculate statistics, and generate staff evaluations.
 
-The Bot only uses Discord data for the functionality provided by the application.
+Discord data is only processed when necessary for the application's features.
 
 ## 5. Availability
 
-We make reasonable efforts to keep the Bot operational and available. However, uninterrupted or error-free operation is not guaranteed.
+The application may occasionally be unavailable because of maintenance, technical problems, Discord service interruptions, hosting issues, or other unexpected circumstances.
 
-The Bot may become temporarily unavailable due to maintenance, technical problems, Discord service interruptions, hosting issues, security incidents, or other circumstances.
+Continuous or error-free availability cannot be guaranteed.
 
-## 6. Limitation of Liability
+## 6. Limitation of Responsibility
 
-The Bot is provided on an "as is" and "as available" basis.
+The application is provided as available.
 
-We do not guarantee that the Bot will always operate without errors or that all statistics and evaluations will always be completely accurate.
+Statistics and evaluations may not always be completely accurate.
 
-Server administrators are responsible for reviewing staff evaluations and should not rely solely on automated statistics when making important staff management decisions.
+Server administrators are responsible for reviewing staff evaluations and should not rely only on automated statistics when making important staff management decisions.
 
-## 7. Suspension or Termination
+## 7. Suspension or Removal
 
-We reserve the right to suspend or terminate access to the Bot if it is used in violation of these Terms, Discord's policies, or applicable laws.
+Access to the application may be suspended if it is used in violation of these Terms, Discord's rules, or applicable laws.
 
-Server owners may remove the Bot from their server at any time.
+Server owners can remove the application from their server at any time.
 
-## 8. Changes to the Service
+## 8. Changes
 
-We may modify, update, add, or remove features of the Bot at any time.
+Features may be modified, updated, added, or removed when necessary.
 
-We may also update these Terms when necessary. Continued use of the Bot after changes become effective constitutes acceptance of the updated Terms.
+These Terms of Service may also be updated.
+
+Continued use of the application after changes means that you accept the updated Terms.
 
 ## 9. Contact
 
-For questions, support requests, or issues related to the Bot, users may contact us through the official support method provided by the Bot owner.
+For questions, support, or issues related to the application, users can contact the application owner through the official support method.
 
-## 10. Acceptance of These Terms
+## 10. Agreement
 
-By using or inviting [BOT NAME], you acknowledge that you have read and agreed to these Terms of Service and the Privacy Policy.
+By inviting or using this application, you agree to these Terms of Service and the Privacy Policy.
